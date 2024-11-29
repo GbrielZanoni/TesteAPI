@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">API Teste</string>
+
+    <string name="login">Login</string>
+    <string name="enter_username">Digite o seu nome de usuário</string>
+    <string name="enter_password">Digite a sua senha</string>
+    <string name="enter">Entrar</string>
+    <string name="invalid_credentials">Usuário ou senha inválidos</string>
+    <string name="login_success">Login realizado com sucesso!</string>
+
+    <string name="register">Cadastro</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="username_taken">Nome de usuário já existe</string>
+    <string name="fill_all_fields">Preencha todos os campos</string>
+    <string name="registration_success">Cadastro realizado com sucesso!</string>
+    <string name="username_no_spaces">O nome de usuário não pode conter espaços</string>
+
+    <string name="cat_images">Imagens de Gatos</string>
+    <string name="new_image_button">Nova Imagem</string>
+    <string name="error_loading_image">Erro ao carregar a imagem</string>
+</resources>
